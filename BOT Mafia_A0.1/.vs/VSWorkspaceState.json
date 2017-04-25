@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App_Start",
+    "\\Controllers",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\App_Start\\WebApiConfig.cs",
+  "PreviewInSolutionExplorer": false
+}
